@@ -1,0 +1,8 @@
+Third-party ORM utility downloaded from Github for creating C#/VB.NET classes from a database e.g. SQL Server.
+
+Original repository: 
+	https://github.com/rvrn22/nmg
+
+Some modifications have been made for us to be able to use it:
+	-	Original class names used Pascale Casing to name tables, but original source code has been changed now to use only the original table names from the database
+		without altering them.
